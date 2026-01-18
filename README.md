@@ -145,9 +145,6 @@ numpy
 Installation
 
 bash
-# Clone repository
-git clone https://github.com/yourusername/multimodal-humor-recognition.git
-cd multimodal-humor-recognition
 
 # Create virtual environment
 python -m venv venv
