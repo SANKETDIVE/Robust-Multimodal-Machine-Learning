@@ -1,4 +1,5 @@
 A comprehensive deep learning framework for humor detection in multimodal data (text, audio, video) using progressive curriculum learning and multi-teacher knowledge distillation. This project demonstrates advanced techniques in multimodal fusion, robustness to missing modalities, and knowledge transfer learning.
+
 🎯 Overview
 
 This project builds a robust multimodal classifier that can:
